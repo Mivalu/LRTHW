@@ -1,0 +1,50 @@
+def starts a method
+end ends the method
+File
++
+-
+*
+/
+%
+<=
+>=
+<
+>
+#{}
+STDIN
+ARGV
+gets
+gets.chomp()
+puts
+print
+=
+\
+,
+%d
+%s
+<<
+.
+
+\n
+\t
+|f|
+do
+open
+read
+close
+truncate
+readline
+include - in reference a module in the current module
+require - to import libraries
+$0
+IO
+_
+% []
+% {}
+true
+false
+chomp()
+target
+size
+write
+'w'
